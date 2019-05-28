@@ -1,4 +1,4 @@
-# simple-redux-app
+# React + Redux App super simple.
 
 This React + Redux App will Start and Stop the rotating React Default Logo on Click using Redux => Actions, Reducers and Store etc,.
 
