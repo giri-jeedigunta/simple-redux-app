@@ -1,4 +1,4 @@
-# React + Redux App super simple.
+# A basic React + Redux App with thunk middleware.
 
 This React + Redux App will Start and Stop the rotating React Default Logo on Click using Redux => Actions, Reducers and Store etc,.
 
